@@ -4,6 +4,7 @@
 
 ## Blog
 
+- 22/10/2026 [pass好過keyring](blog/20261022.md)
 - 15/10/2026 [HomeView](blog/20261015.md)
 - 06/10/2026 [sed應用](blog/20261006.md)
 - 29/09/2026 [Passkey之禍](blog/20260929.md)

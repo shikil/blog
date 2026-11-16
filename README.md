@@ -4,7 +4,7 @@
 
 ## Blog
 
-- 16/11/2026 [AI讀PDF](blog/20261116.md)
+- 16/11/2026 [AI讀PDF(上)](blog/20261116.md)
 - 11/11/2026 [primecount 9.0](blog/20261111.md)
 - 22/10/2026 [pass好過keyring](blog/20261022.md)
 - 15/10/2026 [HomeView](blog/20261015.md)
